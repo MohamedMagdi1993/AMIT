@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1632481655 source:d:\amit\cproject\amit_25\amit_25_functions\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Artimatics.h"
+	"Test.h"
+
+1632499782 source:d:\amit\cproject\amit_25\amit_25_functions\arthimatcs.c
+	<stdio.h>
+
+1632481862 d:\amit\cproject\amit_25\amit_25_functions\artimatics.h
+
+1632481630 d:\amit\cproject\amit_25\amit_25_functions\test.h
+	"Artimatics.h"
+
+1632499359 source:d:\amit\cproject\amit_25\amit_25_functions\bitwise.c
+
